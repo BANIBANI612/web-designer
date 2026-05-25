@@ -173,3 +173,15 @@ For issues or questions, refer to the inline comments in the code files.
 ---
 
 **Happy designing!** 🎨
+
+## Images
+
+Place your image files inside the `images/` folder with the following filenames:
+
+- `about.jpg`        (About section image)
+- `ecommerce.jpg`    (E-Commerce Platform project)
+- `saas.jpg`         (SaaS Dashboard project)
+- `corporate.jpg`    (Corporate Website project)
+- `mobile.jpg`       (Mobile App Design project)
+
+After adding the images, open `index.html` to verify they load correctly.
